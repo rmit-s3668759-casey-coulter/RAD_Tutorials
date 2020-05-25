@@ -4,7 +4,7 @@ git_source(:github) { |repo| "https://github.com/#{repo}.git" }
 ruby '2.5.7'
 
 # Add bootstrap front end web framework
-gem 'bootstrap-sass', '3.3.7'
+gem 'bootstrap-sass', '3.4.1'
 # Requested by rails test:integration to include below
 gem 'rails-controller-testing'
 # Adding bcrypt to Gemfile as per Tutorial 5
