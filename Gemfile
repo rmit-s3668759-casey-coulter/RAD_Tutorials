@@ -13,6 +13,11 @@ gem 'bcrypt', '3.1.12'
 gem 'jquery-rails'
 # Adding rails ujs
 gem 'rails-ujs', '~> 0.1.0'
+# Adding faker as per tutorial 8
+gem 'faker'
+# Adding below as per tutorial 8
+gem 'will_paginate'
+gem 'bootstrap-will_paginate'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 5.2.4', '>= 5.2.4.1'
